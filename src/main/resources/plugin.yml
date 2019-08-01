@@ -1,0 +1,7 @@
+name: EndPortalBreakFix
+version: ${project.version}
+main: eu.ninebsixt.endportalbreakfix.EndPortalBreakFix
+prefix: EndPortalBreakFix
+authors: [neobenedict]
+description: Fix end portals breaking with liquids
+website: 9b6t.eu
